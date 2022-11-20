@@ -1,4 +1,4 @@
-可以使用golang操作chrome完成一打印当前页面到PDF操作，支持滚动加载的页面
+可以使用golang操作chrome完成打印页面到PDF操作，支持滚动加载的页面
 ### 环境
 + go环境：go 1.18
 + chrome dev tool 驱动：chromedp v0.8.6
